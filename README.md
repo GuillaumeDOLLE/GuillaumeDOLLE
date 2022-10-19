@@ -5,7 +5,6 @@ My name is **Guillaume Dollé**, I'm a Fullstack Javascript Developer :computer:
 + 🌱 I’m currently learning React
 + 📫 How to reach me: 
     - [email](mailto:guillaumedolle.dev@gmail.com) 
-    - [twitter](https://twitter.com/dolle_guillaume) 
     - [linkedIn](https://www.linkedin.com/in/dolleguillaume/)
     
     
